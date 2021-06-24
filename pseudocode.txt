@@ -1,0 +1,4 @@
+Create a for loop 
+compare the dates between the current date and the last modified date of the file
+    If the modified.date > 7 then 
+        move file to S3
